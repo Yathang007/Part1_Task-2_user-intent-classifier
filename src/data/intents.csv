@@ -1,0 +1,61 @@
+query,intent
+Summarize the entire video.,whole_video
+Give me a brief overview of this video.,whole_video
+What is the main topic of the video?,whole_video
+Explain what happens throughout the video.,whole_video
+Describe the key events from beginning to end.,whole_video
+What is this video mainly about?,whole_video
+Provide a complete summary of the lecture.,whole_video
+Summarize the main points discussed in this podcast.,whole_video
+What are the important takeaways from the full presentation?,whole_video
+Tell me the overall story shown in this video.,whole_video
+Give an overview of the entire football match.,whole_video
+What are the main steps demonstrated in this tutorial?,whole_video
+Summarize the full interview with the guest.,whole_video
+Describe the overall message of the documentary.,whole_video
+What topics are covered in this recording?,whole_video
+Explain the full process shown in the video.,whole_video
+List the major events in chronological order.,whole_video
+What does the speaker discuss in the entire recording?,whole_video
+Give me the big picture of this video.,whole_video
+Write a short summary of everything shown.,whole_video
+What color is the car at 00:42?,frame
+What object is visible at 01:10?,frame
+Read the text displayed on the screen at 00:35.,frame
+What is the person holding in this frame?,frame
+How many people are visible at 02:15?,frame
+What color shirt is the presenter wearing at 00:20?,frame
+Is there a dog in the image at 01:05?,frame
+Identify the vehicle shown at 00:48.,frame
+What number is written on the sign in this frame?,frame
+Describe the background visible at 00:12.,frame
+Which tool is on the table at 03:22?,frame
+What expression does the person have at 00:50?,frame
+Is the traffic light red at 00:18?,frame
+What logo appears on the laptop screen?,frame
+What is written on the board in this shot?,frame
+Count the chairs visible in this image.,frame
+What animal is shown at 00:30?,frame
+What is the person pointing at in this frame?,frame
+Does the screen show a warning icon?,frame
+What is the position of the ball in this image?,frame
+What happens just before the player scores?,clip
+Describe the sequence where the dog jumps over the fence.,clip
+Show the part where the speaker changes slides.,clip
+When does the car turn left?,clip
+What happens between the person entering and sitting down?,clip
+Describe the moments leading up to the accident.,clip
+Find the segment where the presenter demonstrates the device.,clip
+What happens immediately after the door opens?,clip
+Summarize the sequence from the first alarm to the evacuation.,clip
+Locate the part where the runner crosses the finish line.,clip
+What does the person do during the next few seconds?,clip
+Describe how the scene changes from indoors to outdoors.,clip
+Find the section where the machine starts running.,clip
+What happens after the speaker asks a question?,clip
+Show the moment when the bus stops at the station.,clip
+Describe the action between 01:20 and 01:40.,clip
+When does the person pick up the red bag?,clip
+Find the sequence in which the team celebrates.,clip
+What happens in the seconds before the lights go out?,clip
+Locate the part where the character leaves the room.,clip
